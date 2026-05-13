@@ -1,4 +1,4 @@
-# Batch Video Generator / 批量视频生成
+# Batch Video Generator / 批量视频生成skill(dreamina+grok双驱动)
 
 <p align="center">
   <b>AI Batch Video Generation — Claude Code Skill</b><br>
